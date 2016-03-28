@@ -24,6 +24,8 @@ public class MonthList extends ActionBarActivity {
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, months);
         monthsList.setAdapter(adapter);
 //        monthsList.setOnClickListener((android.view.View.OnClickListener) this);
+        // commit
+
     }
 
 
